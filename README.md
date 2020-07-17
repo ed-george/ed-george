@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ed George
 
-<!--
-**ed-george/ed-george** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm Ed, an Android developer and programmer originally from Oxfordshire, UK.
+I have been programming since I was 13 years old and have a broad interest in programming languages, mobile applications and general computer science.
 
-Here are some ideas to get you started:
+Outside of programming, you can find me playing Pokémon games, supporting Oxford United and enjoying pictures of sausage dogs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can read more about me and my work on [my website](https://ed-george.github.io/)
+
+Please check me out on social:
+
+* Twitter - [@sp4ghetticode](http://twitter.com/sp4ghetticode)
+* LinkedIn - [edgeorge](http://linkedin.com/in/edgeorge)
+* Medium - [@spaghetticode](https://medium.com/@spaghetticode)
