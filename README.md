@@ -4,7 +4,7 @@
 
 I have been programming since I was 13 years old and have a broad interest in programming languages, mobile applications and general computer science.
 
-Outside of programming, you can find me playing Pokémon games, supporting Oxford United and enjoying pictures of dogs.
+Outside of programming, you can find me playing Pokémon games, supporting Oxford United and looking after my Pomeranian.
 
 You can read more about me and my work on [my website](https://ed-george.github.io/)
 
