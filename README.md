@@ -1,6 +1,6 @@
 # Ed George
 
-👋 Hi there! I'm Ed, an Android developer and programmer originally from Oxfordshire, UK and now residing in Shropshire.
+👋 Hi there! I'm Ed, an Android developer and programmer originally from Oxfordshire, UK and now residing in [Nottingham, UK](https://www.youtube.com/watch?v=iepNUUxVLJQ).
 
 I have been programming since I was 13 years old and have a broad interest in programming languages, mobile applications and general computer science.
 
