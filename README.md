@@ -1,4 +1,4 @@
-# Ed George
+# Ed Holloway-George
 
 👋 Hi there! I'm Ed, an Android developer and programmer originally from Oxfordshire, UK and now residing in [Nottingham, UK](https://www.youtube.com/watch?v=iepNUUxVLJQ).
 
