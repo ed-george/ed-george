@@ -8,9 +8,10 @@ Outside of programming, you can find me playing Pokémon games, supporting Oxfor
 
 You can read more about me and my work on [my website](https://ed-george.github.io/)
 
-Please check me out on social:
+Please check me out on socials:
 
-* Twitter - [@sp4ghetticode](http://twitter.com/sp4ghetticode)
+* BlueSky - [@spght.dev](https://bsky.app/profile/spght.dev)
+* ~Twitter~ X - [@sp4ghetticode](http://twitter.com/sp4ghetticode)
 * androiddev.social - [@spaghetticode](https://androiddev.social/@spaghetticode)
 * Threads - [@sp4ghetticode](https://www.threads.net/@sp4ghetticode)
 * LinkedIn - [edgeorge](http://linkedin.com/in/edgeorge)
